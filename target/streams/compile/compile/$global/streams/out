@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/toemik/projects/jascala/crimestat/src/main/scala/com/github/mrpowers/my/cool/project/CrimeStat.scala:38:8: not found: value pathCrime[0m
+[0m[[0m[31merror[0m] [0m[0m		.csv(pathCrime)[0m
+[0m[[0m[31merror[0m] [0m[0m		     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/toemik/projects/jascala/crimestat/src/main/scala/com/github/mrpowers/my/cool/project/CrimeStat.scala:43:8: not found: value pathCodes[0m
+[0m[[0m[31merror[0m] [0m[0m		.csv(pathCodes)[0m
+[0m[[0m[31merror[0m] [0m[0m		     ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
